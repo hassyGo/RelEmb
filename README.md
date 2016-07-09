@@ -1,5 +1,8 @@
 # RelEmb: Learning Embeddings for Relation Classification
 
+## Training Data
+An exmaple of the training data for our model can be found at <a href="http://www.logos.t.u-tokyo.ac.jp/~hassy/publications/conll2015/">our project page</a> and the full size of the training data used in our paper will be also available soon there.
+
 [1] Kazuma Hashimoto, Pontus Stenetorp, Makoto Miwa, and Yoshimasa Tsuruoka. 2015. <a href="http://www.logos.t.u-tokyo.ac.jp/~hassy/publications/conll2015/">Task-Oriented Learning of Word Embeddings for Semantic Relation Classification<a/>. In <i>Proceedings of the Nineteenth Conference on Computational Natural Language Learning</i>. pages 268-278.
 
     @InProceedings{hashimoto-EtAl:2015:CoNLL,
